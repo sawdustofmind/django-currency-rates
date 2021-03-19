@@ -1,2 +1,2 @@
-Django==2.2.4
+Django==2.2.18
 beautifulsoup4==4.8.0
